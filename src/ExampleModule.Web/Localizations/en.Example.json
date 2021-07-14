@@ -1,0 +1,28 @@
+{
+  "example": {
+    "blades": {
+      "hello-world": {
+        "title": "Hello world blade"
+      }
+    }
+  },
+  "permissions": {
+    "example:access": "Open Example menu",
+    "example:create": "Create Example related data",
+    "example:read": "View Example related data",
+    "example:update": "Update Example related data",
+    "example:delete": "Delete Example related data"
+  },
+  "settings": {
+    "Example": {
+      "ExamplePassword": {
+        "title": "Example Password",
+        "description": "Example Password setting"
+      },
+      "ExampleEnabled": {
+        "title": "Example Enabled",
+        "description": "Example Enabled setting"
+      }
+    }
+  }
+}

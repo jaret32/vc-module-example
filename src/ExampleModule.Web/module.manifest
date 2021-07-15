@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <module>
     <id>Example</id>
-    <version>1.0.0</version>
+    <version>3.0.0</version>
     <version-tag></version-tag>
     <platformVersion>3.0.0</platformVersion>
     <dependencies>
@@ -14,8 +14,11 @@
         <author>JBoyer</author>
     </authors>
     <owners>
-      <owner></owner>
+        <owner>jaret32</owner>
     </owners>
+	<groups>
+		<group>pfl-core</group>
+	</groups>
 
     <releaseNotes>First version.</releaseNotes>
     <copyright>Copyright © 2021 . All rights reserved</copyright>
